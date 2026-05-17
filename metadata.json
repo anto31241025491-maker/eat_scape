@@ -1,0 +1,6 @@
+{
+  "name": "EatScape",
+  "description": "A food discovery app for Gen Z students in Saigon to find authentic Vietnamese street food and hidden gems.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
